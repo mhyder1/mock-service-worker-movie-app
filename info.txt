@@ -1,0 +1,6 @@
+npm install msw
+new dir mocks
+new file mocks/handler.ts
+new file mocks/broswer.ts
+
+npx msw init <root directory>
